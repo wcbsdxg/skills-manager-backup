@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "050f0e4b-1db6-405c-816a-179947741979",
+  "path": "cavecrew",
+  "path_key": "cavecrew",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

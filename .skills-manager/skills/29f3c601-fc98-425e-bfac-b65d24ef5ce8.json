@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "29f3c601-fc98-425e-bfac-b65d24ef5ce8",
+  "path": "review-animations",
+  "path_key": "review-animations",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

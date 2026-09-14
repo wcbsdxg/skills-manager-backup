@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "01464a3e-a683-4ae5-8a3d-93fe3542167d",
+  "path": "investigate-first",
+  "path_key": "investigate-first",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
